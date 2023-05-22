@@ -1,7 +1,5 @@
 🙋‍♂️ Thomas BAIL / eroz </br>
 📚 Study in France </br>
-🎯 Create my start-up </br></br>
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
