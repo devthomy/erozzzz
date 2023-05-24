@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 <head>
   <title>eroz - Study in France</title>
   <style>
@@ -64,5 +62,4 @@
     <img src="https://user-images.githubusercontent.com/130453606/234559176-8a39df47-cd84-4b21-ac5c-f28890da24fd.png" alt="Node.js logo" width="50" height="50">
     <img src="https://user-images.githubusercontent.com/130453606/234559164-3c0777bf-5660-4f78-bb0d-d4f0ad87d0ab.png" alt="MySQL logo" width="50" height="50">
   </div>
-</body>
-</html>
+
