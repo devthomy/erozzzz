@@ -1,26 +1,26 @@
-# 👋 Bonjour, je suis Thomy!
+# 👋 Hello, I'm Thomy!
 
-🚀 Je travaille actuellement sur Revivo.  
-👨‍💻 Je suis un développeur FullStack.  
-💬 N'hésitez pas à me poser des questions ou à interagir avec moi.
-
-<br/>
-
-## 📊 Mes statistiques GitHub:
-
-<img align="center" alt="Vos stats GitHub" src="https://github-readme-stats.vercel.app/api?username=erozzzz&show_icons=true&hide_border=true&theme=tokyonight" />
+🚀 Currently working on Revivo.  
+👨‍💻 I’m a FullStack Developer.  
+💬 Feel free to ask me any questions or to interact with me.
 
 <br/>
 
-## 📫 Contactez-moi:
+## 📊 My GitHub Stats:
 
-- **Portfolio:** [Cliquez ici](https://portfolio-erozzzz.vercel.app/)
-- **LinkedIn:** [Cliquez ici](https://fr.linkedin.com/in/thomas-bail-a52512274)
+<img align="center" alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=erozzzz&show_icons=true&hide_border=true&theme=tokyonight" />
+
+<br/>
+
+## 📫 Contact Me:
+
+- **Portfolio:** [Click Here](https://portfolio-erozzzz.vercel.app/)
+- **LinkedIn:** [Click Here](https://fr.linkedin.com/in/thomas-bail-a52512274)
 - **Email:** thomaseroz@icloud.com
 
 <br/>
 
-## 🛠️ Outils & Technologies:
+## 🛠️ Tools & Technologies:
 
 <code><img height="20" src="https://img.icons8.com/color/452/javascript.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/480/python.png"></code>
