@@ -22,8 +22,8 @@
 
 ## 🛠️ Tools & Technologies:
 
-<code><img height="20" src="https://img.icons8.com/color/452/javascript.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/480/python.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/480/react-native.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/480/nodejs.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/452/typescript.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/480/tailwindcss.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/480/react.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/480/next.png"></code>
 
