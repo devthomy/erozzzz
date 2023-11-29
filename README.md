@@ -13,6 +13,8 @@
 <code><img height="30" src="https://img.icons8.com/color/480/react-native.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/480/nextjs.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/480/laravel.png"></code>
+<code><img height="30" src="https://icons8.com/icon/zfHRZ6i1Wg0U/figma"></code>
+
 <br/>
 
 ## 📊 My GitHub Stats:
