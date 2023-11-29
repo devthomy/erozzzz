@@ -3,16 +3,12 @@
 👑 Owner of Clyck.  
 👨‍💻 I’m a FullStack Developer.  
 📍  French developer
-
 <br/>
-
 ## 🛠️ Tools & Technologies:
-
 <code><img height="30" src="https://img.icons8.com/color/452/typescript.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/480/tailwindcss.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/480/react-native.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/480/nextjs.png"></code>
-
 <br/>
 
 ## 📊 My GitHub Stats:
