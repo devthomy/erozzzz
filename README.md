@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Thomy!
+# 👋 Thomy !
 
-🚀 Currently working on Revivo.  
+🚀 Currently working on Clyck.  
 👨‍💻 I’m a FullStack Developer.  
 📍  French developer
 
