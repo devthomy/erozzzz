@@ -1,6 +1,6 @@
 # 👋 Thomy !
 
-🚀 Currently working on Clyck.  
+👑 Owner of Clyck.  
 👨‍💻 I’m a FullStack Developer.  
 📍  French developer
 
